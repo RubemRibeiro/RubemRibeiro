@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with technology since 2015<br>📚 I'm currently learning Node.js, Typescript and Design Patterns<br>🎯 Goals: Complete my career transition from IT support to a career as a developer<br>📫 You can reach me only by email<br>🎲 Fun fact: Video games, Technology, American Football and LOTR are my things</p>
+<p align="left">✨ Working with technology since 2015<br>📚 I'm currently learning Node.js, Typescript and Design Patterns<br>🎯 Goals: Complete my career transition from IT support to a carrer as a developer<br>📫 You can reach me only by email<br>🎲 Fun fact: Video games, Technology, American Football and LOTR are my things</p>
 
 ###
 
